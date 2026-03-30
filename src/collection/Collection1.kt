@@ -1,4 +1,4 @@
-package variable
+package collection
 
 fun main() {
     // Read only list

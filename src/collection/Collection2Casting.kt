@@ -1,4 +1,4 @@
-package variable
+package collection
 
 fun main() {
     val shape : MutableList<String> = mutableListOf("triangle", "square", "circle")
