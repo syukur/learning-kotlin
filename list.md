@@ -5,11 +5,12 @@
   4.1 List 76 : ordered collection, allow duplicate
   4.2 Set 77  : unordered collection, only store unique value
   4.3 Map 79  : set of key-value pair, unique key, allow duplicate value
-5. Control FLow (Next)
+5. Control FLow 
   5.1 If 82 
-  5.2 When (Next)
-  5.3 For (Next)
-  5.4 While (Next)
+  5.2 When 83
+  5.3 Range 86 (Next)
+  5.4 For (Next)
+  5.5 While (Next)
 6. Function (Next)
 7. sdas
 8. sdas
