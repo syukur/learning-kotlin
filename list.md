@@ -8,9 +8,27 @@
 5. Control FLow 
   5.1 If 82 
   5.2 When 83
-  5.3 Range 86 (Next)
-  5.4 For (Next)
-  5.5 While (Next)
-6. Function (Next)
-7. sdas
+  5.3 Range 86 
+  5.4 For 
+  5.5 While 
+6. Function 90 (Next)
+  6.1  Basic Function 1
+  6.2  Basic Function 2
+  6.3  NamedArguments
+  6.4  Default Value Parameter
+  6.5  No Return Function
+  6.6  Single Expression
+  6.7  Early Return In Function ---> (Next)
+  6.8  Function Exercise 1
+  6.9  Function Exercise 2
+  6.10 Function Exercise 3
+  6.11 Lambda Expression
+  6.12 Pass To Other Function
+  6.13 Function Type
+  6.14 Return From Other Function
+  6.15 Invoke Separately
+  6.16 Tailing Lambdas
+  6.17 Lambda Expression Exercise 1
+  6.18 Lambda Expression Exercise 2
+7. Class & Interface
 8. sdas
