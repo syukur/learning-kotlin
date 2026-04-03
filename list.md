@@ -23,10 +23,10 @@
   6.9  Function Exercise 2
   6.10 Function Exercise 3  
   6.11 Lambda Expression
-  6.12 Pass To Other Function  ---> (Next)
-  6.13 Function Type
-  6.14 Return From Other Function
-  6.15 Invoke Separately
+  6.12 (Lambda) Pass To Other Function
+  6.13 (Lambda) Function Type  ---> (Next)
+  6.14 (Lambda) Return From Other Function
+  6.15 (Lambda) Invoke Separately
   6.16 Tailing Lambdas
   6.17 Lambda Expression Exercise 1
   6.18 Lambda Expression Exercise 2
