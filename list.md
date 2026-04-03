@@ -27,8 +27,8 @@
   6.13 (Lambda) Function Type  
   6.14 (Lambda) Return From Other Function
   6.15 (Lambda) Invoke Separately 
-  6.16 Tailing Lambdas ---> (Next)
-  6.17 Lambda Expression Exercise 1
+  6.16 Tailing Lambdas
+  6.17 Lambda Expression Exercise 1  ---> (Next)
   6.18 Lambda Expression Exercise 2
 7. Class & Interface
 8. sdas
