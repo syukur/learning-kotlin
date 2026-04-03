@@ -21,9 +21,9 @@
   6.7  Early Return In Function 
   6.8  Function Exercise 1 
   6.9  Function Exercise 2
-  6.10 Function Exercise 3  ---> (Next)
+  6.10 Function Exercise 3  
   6.11 Lambda Expression
-  6.12 Pass To Other Function
+  6.12 Pass To Other Function  ---> (Next)
   6.13 Function Type
   6.14 Return From Other Function
   6.15 Invoke Separately
