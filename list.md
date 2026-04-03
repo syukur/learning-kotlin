@@ -19,9 +19,9 @@
   6.5  No Return Function
   6.6  Single Expression
   6.7  Early Return In Function 
-  6.8  Function Exercise 1 ---> (Next)
+  6.8  Function Exercise 1 
   6.9  Function Exercise 2
-  6.10 Function Exercise 3
+  6.10 Function Exercise 3  ---> (Next)
   6.11 Lambda Expression
   6.12 Pass To Other Function
   6.13 Function Type
