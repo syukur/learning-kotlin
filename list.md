@@ -18,8 +18,8 @@
   6.4  Default Value Parameter
   6.5  No Return Function
   6.6  Single Expression
-  6.7  Early Return In Function ---> (Next)
-  6.8  Function Exercise 1
+  6.7  Early Return In Function 
+  6.8  Function Exercise 1 ---> (Next)
   6.9  Function Exercise 2
   6.10 Function Exercise 3
   6.11 Lambda Expression
