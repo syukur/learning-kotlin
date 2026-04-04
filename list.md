@@ -29,6 +29,14 @@
   6.15 (Lambda) Invoke Separately 
   6.16 Tailing Lambdas
   6.17 Lambda Expression Exercise 1
-  6.18 Lambda Expression Exercise 2  ---> (Next)
+  6.18 Lambda Expression Exercise 2
 7. Class & Interface
+  7.1 Properties
+  7.2 Member Function
+  7.3 Data Classes
+  7.4 Exercise 1  ---> (Next)
+  7.5 Exercise 2
+  7.5 Exercise 3
 8. sdas
+9. sdfs
+10. dfs
