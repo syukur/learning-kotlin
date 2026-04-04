@@ -30,13 +30,18 @@
   6.16 Tailing Lambdas
   6.17 Lambda Expression Exercise 1
   6.18 Lambda Expression Exercise 2
-7. Class & Interface
+7. Class & Interface -->
   7.1 Properties
   7.2 Member Function
   7.3 Data Classes
-  7.4 Exercise 1  ---> (Next)
-  7.5 Exercise 2
-  7.5 Exercise 3
-8. sdas
-9. sdfs
+  7.4 Exercise 1  
+  7.5 Exercise 2 
+  7.5 Exercise 3 
+8. Null Safety --> 
+  8.1 Nullable types
+  8.2 Check for null values
+  8.3 Use safe calls
+  8.4 Use Elvis operator 
+  8.5 Exercise
+9. Extention Function -> Start Intermediate
 10. dfs
