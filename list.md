@@ -30,18 +30,26 @@
   6.16 Tailing Lambdas
   6.17 Lambda Expression Exercise 1
   6.18 Lambda Expression Exercise 2
-7. Class & Interface -->
+7. Class
   7.1 Properties
   7.2 Member Function
   7.3 Data Classes
   7.4 Exercise 1  
   7.5 Exercise 2 
   7.5 Exercise 3 
-8. Null Safety --> 
+8. Null Safety 
   8.1 Nullable types
   8.2 Check for null values
-  8.3 Use safe calls
+  8.3 Use safe calls --> Next
   8.4 Use Elvis operator 
   8.5 Exercise
-9. Extention Function -> Start Intermediate
-10. dfs
+9. Intermediate: Extension Function
+10. Intermediate: Scope Function
+11. Intermediate: Lambda Expression With Receiver
+12. Intermediate: Class and Interface
+13. Intermediate: Object
+14. Intermediate: Open and Special Classes
+15. Intermediate: Properties
+16. Intermediate: Null safety
+17. Intermediate: Libraries and APIs
+
