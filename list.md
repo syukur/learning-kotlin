@@ -43,7 +43,11 @@
   8.3 Use safe calls 
   8.4 Use Elvis operator 
   8.5 Exercise
-9. Intermediate: Extension Function  --> Next
+9. Intermediate: Extension Function
+  9.1 First Example
+  9.2 Extension-oriented design  --> Next
+  9.3
+  9.4
 10. Intermediate: Scope Function
 11. Intermediate: Lambda Expression With Receiver
 12. Intermediate: Class and Interface
