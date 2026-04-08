@@ -19,9 +19,7 @@ fun String.countChar(char: Char): Int{
     var result: Int = 0
 
     this.toCharArray().forEach { member ->
-        if( member.equals(char) ){
-            result++
-        }
+        if( member.equals(char) ) result++
     }
 
     return result
