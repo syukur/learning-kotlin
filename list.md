@@ -45,10 +45,13 @@
   8.5 Exercise
 9. Intermediate: Extension Function
   9.1 First Example
-  9.2 Extension-oriented design  --> Next
-  9.3
-  9.4
-10. Intermediate: Scope Function
+  9.2 Extension-oriented design  
+      Design yang memisahkan fungsi core (utama), dengan fungsi (tambahan) berguna lainnya tapi tidak essensial
+        - Fungsi core / utama di tulis di dalam body class
+        - Fungsi tambahan di tulis menggunakan extension 
+  9.3 Exercise 1 
+  9.4 Exercise 2
+10. Intermediate: Scope Function -->
 11. Intermediate: Lambda Expression With Receiver
 12. Intermediate: Class and Interface
 13. Intermediate: Object
