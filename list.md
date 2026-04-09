@@ -51,7 +51,16 @@
         - Fungsi tambahan di tulis menggunakan extension 
   9.3 Exercise 1 
   9.4 Exercise 2
-10. Intermediate: Scope Function -->
+10. Intermediate: Scope Function 
+  10.1 let: 
+    - scoping expression & variable
+    - membuat suatu block program dijalan jika sebuah variable tidak null
+  10.2 apply
+    - di gunakan untuk insiasi object
+  10.3 run --> Next
+  10.4 with
+  10.5 Exercise 1
+  10.6 Exercise 2
 11. Intermediate: Lambda Expression With Receiver
 12. Intermediate: Class and Interface
 13. Intermediate: Object
