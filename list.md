@@ -52,15 +52,35 @@
   9.3 Exercise 1 
   9.4 Exercise 2
 10. Intermediate: Scope Function 
-  10.1 let: 
-    - scoping expression & variable
-    - membuat suatu block program dijalan jika sebuah variable tidak null
-  10.2 apply
-    - di gunakan untuk insiasi object
-  10.3 run --> Next
-  10.4 with
-  10.5 Exercise 1
-  10.6 Exercise 2
+10.1 let:
+  - return hasil lambda
+  - akses member receiver dengan "it"
+  - biasanya di gunakan untuk cek apakah receiver null atau tidak, kalau tidak null 
+    block scope akan di jalankan
+10.2 apply (tidak return value, nilai receiver bisa berubah, ketika di ubah di block scooping)
+  - return object receiver
+  - akses member object menggunakan "this" atau lansung di memanggil membernya
+  - biasanya di gunakan untuk inisiasi object receiver
+10.3 run (return value, nilai receiver tidak akan berubah, kalau pun diubah di block scooping)
+  - return hasil lambda
+  - akses member receiver dengan "this" atau panggil membernya langsung
+  - data member receiver tidak akan berubah, meski di ubah di dalam block scoping
+10.4 also
+  - return object receiver
+  - akses member object menggunakan "it"
+10.4 with --> Next
+
+------------------------------------------------------------------------------
+let  | return: lambda  | akses_member: it  | biasa digunakan cek null 
+apply| return: receiver| akses_member: this| biasa digunakan inisiai  object
+run  | return: lambda  | akses_member: this| 
+also | return: receiver| akses_member: it  |
+------------------------------------------------------------------------------
+
+
+
+10.5 Exercise 1
+10.6 Exercise 2
 11. Intermediate: Lambda Expression With Receiver
 12. Intermediate: Class and Interface
 13. Intermediate: Object

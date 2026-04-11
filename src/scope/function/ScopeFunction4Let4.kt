@@ -12,7 +12,7 @@ fun main() {
     val countChar_a = name.let {
         var count = 0
 
-        name.toCharArray().forEach { char ->
+        it.toCharArray().forEach { char ->
             if (char == 'a') count++
         }
 

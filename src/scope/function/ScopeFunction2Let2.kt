@@ -9,7 +9,7 @@ fun main() {
     val name: String? = "Budi"
 
     name?.let {
-        println("nilai variable name: $name ")
+        println("nilai variable name: $it ")
     }
 
 }
