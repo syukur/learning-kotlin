@@ -81,8 +81,8 @@
 11. Intermediate: Lambda Expression With Receiver
     1. Contoh 1 
     2. Contoh 2   
-    3. Exercise 1 --> Next
-    4. Exercise 2
+    3. Exercise 1
+    4. Exercise 2  --> Next
     5. Exercise 3
 12. Intermediate: Class and Interface
 13. Intermediate: Object
