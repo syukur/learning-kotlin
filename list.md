@@ -2,86 +2,88 @@
 2. String Template 72
 3. Basic Type 73
 4. Collection 76 
-  4.1 List 76 : ordered collection, allow duplicate
-  4.2 Set 77  : unordered collection, only store unique value
-  4.3 Map 79  : set of key-value pair, unique key, allow duplicate value
+   1. List 76 : ordered collection, allow duplicate
+   2. Set 77  : unordered collection, only store unique value
+   3. Map 79  : set of key-value pair, unique key, allow duplicate value
 5. Control FLow 
-  5.1 If 82 
-  5.2 When 83
-  5.3 Range 86 
-  5.4 For 
-  5.5 While 
-6. Function 90 (Next)
-  6.1  Basic Function 1
-  6.2  Basic Function 2
-  6.3  NamedArguments
-  6.4  Default Value Parameter
-  6.5  No Return Function
-  6.6  Single Expression
-  6.7  Early Return In Function 
-  6.8  Function Exercise 1 
-  6.9  Function Exercise 2
-  6.10 Function Exercise 3  
-  6.11 Lambda Expression
-  6.12 (Lambda) Pass To Other Function
-  6.13 (Lambda) Function Type  
-  6.14 (Lambda) Return From Other Function
-  6.15 (Lambda) Invoke Separately 
-  6.16 Tailing Lambdas
-  6.17 Lambda Expression Exercise 1
-  6.18 Lambda Expression Exercise 2
+   1. If 82 
+   2. When 83
+   3. Range 86 
+   4. For 
+   5. While 
+6. Function 
+   1. Basic Function 1
+   3. NamedArguments
+   4. Default Value Parameter
+   5. No Return Function
+   6. Single Expression
+   7. Early Return In Function 
+   8. Function Exercise 1 
+   9. Function Exercise 2
+   10. Function Exercise 3  
+   11. Lambda Expression
+   12. (Lambda) Pass To Other Function
+   13. (Lambda) Function Type  
+   14. (Lambda) Return From Other Function
+   15. (Lambda) Invoke Separately 
+   16. Tailing Lambdas
+   17. Lambda Expression Exercise 1
+   18. Lambda Expression Exercise 2
 7. Class
-  7.1 Properties
-  7.2 Member Function
-  7.3 Data Classes
-  7.4 Exercise 1  
-  7.5 Exercise 2 
-  7.5 Exercise 3 
+   1. Properties
+   2. Member Function
+   3. Data Classes
+   4. Exercise 1  
+   5. Exercise 2 
+   6. Exercise 3 
 8. Null Safety 
-  8.1 Nullable types
-  8.2 Check for null values
-  8.3 Use safe calls 
-  8.4 Use Elvis operator 
-  8.5 Exercise
+   1. Nullable types
+   2. Check for null values
+   3. Use safe calls 
+   4. Use Elvis operator 
+   5. Exercise
 9. Intermediate: Extension Function
-  9.1 First Example
-  9.2 Extension-oriented design  
-      Design yang memisahkan fungsi core (utama), dengan fungsi (tambahan) berguna lainnya tapi tidak essensial
-        - Fungsi core / utama di tulis di dalam body class
-        - Fungsi tambahan di tulis menggunakan extension 
-  9.3 Exercise 1 
-  9.4 Exercise 2
+   1. First Example
+   2. Extension-oriented design  
+      >Design yang memisahkan fungsi core (utama), dengan fungsi (tambahan) berguna lainnya tapi tidak essensial
+      >   - Fungsi core / utama di tulis di dalam body class
+      >   - Fungsi tambahan di tulis menggunakan extension 
+   3. Exercise 1 
+   4. Exercise 2
 10. Intermediate: Scope Function 
-10.1 let:
-  - return hasil lambda
-  - akses member receiver dengan "it"
-  - biasanya di gunakan untuk cek apakah receiver null atau tidak, kalau tidak null 
-    block scope akan di jalankan
-10.2 apply (tidak return value, nilai receiver bisa berubah, ketika di ubah di block scooping)
-  - return object receiver
-  - akses member object menggunakan "this" atau lansung di memanggil membernya
-  - biasanya di gunakan untuk inisiasi object receiver
-10.3 run (return value, nilai receiver tidak akan berubah, kalau pun diubah di block scooping)
-  - return hasil lambda
-  - akses member receiver dengan "this" atau panggil membernya langsung
-  - data member receiver tidak akan berubah, meski di ubah di dalam block scoping
-10.4 also
-  - return object receiver
-  - akses member object menggunakan "it"
-10.4 with --> Next
+    1. let:
+       >- return hasil lambda
+       >- akses member receiver dengan "it"
+       >- biasanya di gunakan untuk cek apakah receiver null atau tidak, kalau tidak null 
+         block scope akan di jalankan
+    2. apply (tidak return value, nilai receiver bisa berubah, ketika di ubah di block scooping)
+       >- return object receiver
+       >- akses member object menggunakan "this" atau lansung di memanggil membernya
+       >- biasanya di gunakan untuk inisiasi object receiver
+    3. run (return value, nilai receiver tidak akan berubah, kalau pun diubah di block scooping)
+       >- return hasil lambda
+       >- akses member receiver dengan "this" atau panggil membernya langsung
+       >- data member receiver tidak akan berubah, meski di ubah di dalam block scoping
+    4. also
+       >- return object receiver
+       >- akses member object menggunakan "it"
+    5. with
+    6. Exercise 1 
+    7. Exercise 2
+    
+       | Scope Function Type | retun            | akses_member       | note                            |
+       |---------------------|------------------|--------------------|---------------------------------
+       | let                 | return: lambda   | akses_member: it   | biasa digunakan cek null        |
+       | apply               | return: receiver | akses_member: this | biasa digunakan inisiai  object |
+       | run                 | return: lambda   | akses_member: this |                                 |
+       | also                | return: receiver | akses_member: it   |                                 |
 
-------------------------------------------------------------------------------
-let  | return: lambda  | akses_member: it  | biasa digunakan cek null 
-apply| return: receiver| akses_member: this| biasa digunakan inisiai  object
-run  | return: lambda  | akses_member: this| 
-also | return: receiver| akses_member: it  |
-------------------------------------------------------------------------------
-
-
-
-10.5 Exercise 1
-10.6 Exercise 2
 11. Intermediate: Lambda Expression With Receiver
+    1. Contoh 1 
+    2. Contoh 2   
+    3. Exercise 1 --> Next
+    4. Exercise 2
+    5. Exercise 3
 12. Intermediate: Class and Interface
 13. Intermediate: Object
 14. Intermediate: Open and Special Classes
