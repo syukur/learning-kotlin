@@ -82,9 +82,17 @@
     1. Contoh 1 
     2. Contoh 2   
     3. Exercise 1
-    4. Exercise 2  --> Next
+    4. Exercise 2
     5. Exercise 3
-12. Intermediate: Class and Interface
+12. Intermediate: Class and Interface  --> Next
+    1. Class inheritance
+    2. Abstract Class
+    3. Interface Implementation
+    4. Delegation
+    5. Exercise 1
+    6. Exercise 2
+    7. Exercise 3
+    8. Exercise 4
 13. Intermediate: Object
 14. Intermediate: Open and Special Classes
 15. Intermediate: Properties
