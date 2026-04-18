@@ -6,7 +6,7 @@ interface DrawingTool1{
     fun erase(area: String)
 }
 
-class Pentool1() : DrawingTool {
+class Pentool1() : DrawingTool1 {
     override val color = "black"
 
     override fun draw(shape: String) {
@@ -18,7 +18,7 @@ class Pentool1() : DrawingTool {
     }
 }
 
-class CanvasSession1(val pentool: Pentool1): DrawingTool by pentool{
+class CanvasSession1(val pentool: DrawingTool1): DrawingTool1 by pentool{
     override val color = "blue"
 }
 
