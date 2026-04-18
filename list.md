@@ -94,8 +94,8 @@
     4. Delegation
     5. Exercise 1
     6. Exercise 2  
-    7. Exercise 3 --> Next
-    8. Exercise 4
+    7. Exercise 3
+    8. Exercise 4 --> Next
 13. Intermediate: Object
 14. Intermediate: Open and Special Classes
 15. Intermediate: Properties
