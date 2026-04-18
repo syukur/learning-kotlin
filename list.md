@@ -95,8 +95,8 @@
     5. Exercise 1
     6. Exercise 2  
     7. Exercise 3
-    8. Exercise 4 --> Next
-13. Intermediate: Object
+    8. Exercise 4
+13. Intermediate: Object  --> Next
 14. Intermediate: Open and Special Classes
 15. Intermediate: Properties
 16. Intermediate: Null safety
