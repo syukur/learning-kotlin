@@ -84,14 +84,14 @@
     3. Exercise 1
     4. Exercise 2
     5. Exercise 3
-12. Intermediate: Class and Interface  --> Next
+12. Intermediate: Class and Interface
     1. Class inheritance
     2. Abstract Class
         >Abstract Class
         >- bisa memilik member abstract dan member yang ada implementasinya
         >- hanya bisa di extends
     3. Interface Implementation
-    4. Delegation
+    4. Delegation   --> Next
     5. Exercise 1
     6. Exercise 2
     7. Exercise 3
