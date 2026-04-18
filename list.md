@@ -91,8 +91,8 @@
         >- bisa memilik member abstract dan member yang ada implementasinya
         >- hanya bisa di extends
     3. Interface Implementation
-    4. Delegation   --> Next
-    5. Exercise 1
+    4. Delegation
+    5. Exercise 1   --> Next
     6. Exercise 2
     7. Exercise 3
     8. Exercise 4
