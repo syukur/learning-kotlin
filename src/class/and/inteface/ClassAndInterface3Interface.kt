@@ -1,8 +1,5 @@
 package `class`.and.inteface
 
-import java.text.SimpleDateFormat
-import java.util.Calendar
-
 interface PaymentMethod{
     fun initiatePayment(amount: Double) : String
 }
