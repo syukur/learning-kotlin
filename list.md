@@ -96,7 +96,13 @@
     6. Exercise 2  
     7. Exercise 3
     8. Exercise 4
-13. Intermediate: Object  --> Next
+13. Intermediate: Object
+    1. Object Declaration
+    2. Data Object
+    3. Companion Object
+    4. Exercise 1   --> Next
+    5. Exercise 2
+    6. Exercise 3
 14. Intermediate: Open and Special Classes
 15. Intermediate: Properties
 16. Intermediate: Null safety
