@@ -100,10 +100,17 @@
     1. Object Declaration
     2. Data Object
     3. Companion Object
-    4. Exercise 1   --> Next
+    4. Exercise 1
     5. Exercise 2
     6. Exercise 3
-14. Intermediate: Open and Special Classes
+14. Intermediate: Open and Special Classes   
+    1. Open Class
+    2. Open Class & Interface
+    3. Sealed Class (Special Class)
+    4. Enum Class (Special Class) --> Next
+    5. Inline Value Class  (Special Class)
+    6. Exercise 1
+    7. Exercise 2
 15. Intermediate: Properties
 16. Intermediate: Null safety
 17. Intermediate: Libraries and APIs
