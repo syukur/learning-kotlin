@@ -107,8 +107,8 @@
     1. Open Class
     2. Open Class & Interface
     3. Sealed Class (Special Class)
-    4. Enum Class (Special Class) --> Next
-    5. Inline Value Class  (Special Class)
+    4. Enum Class (Special Class) 
+    5. Inline Value Class  (Special Class) --> Next
     6. Exercise 1
     7. Exercise 2
 15. Intermediate: Properties
