@@ -113,9 +113,9 @@
     7. Exercise 2
 15. Intermediate: Properties
     1. Backing Fields
-    2. Extension Properties --> Next
+    2. Extension Properties
     3. Delegated Properties
-    4. Standard Delegates: Lazy Properties
+    4. Standard Delegates: Lazy Properties  --> Next
     5. Standard Delegates: Observable Properties
     6. Exercise 1
     7. Exercise 2
