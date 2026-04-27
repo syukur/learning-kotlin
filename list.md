@@ -118,8 +118,8 @@
     4. Standard Delegates: Lazy Properties
     5. Standard Delegates: Observable Properties
     6. Exercise 1
-    7. Exercise 2   --> Next
-    8. Exercise 3 
+    7. Exercise 2
+    8. Exercise 3   --> Next 
     9. Exercise 4
 16. Intermediate: Null safety
 17. Intermediate: Libraries and APIs
