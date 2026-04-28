@@ -1,7 +1,5 @@
 package properties
 
-import com.sun.tools.javac.code.TypeAnnotationPosition.field
-
 val Double.asMiles: Double
     get() = this * 0.621371
 
