@@ -124,9 +124,9 @@
 16. Intermediate: Null safety
     1. Smart casts and safe casts
     2. Null values and collections
-    3. Early return and the Elvis operator --> Next
+    3. Early return and the Elvis operator 
     4. Exercise 1
-    5. Exercise 2
+    5. Exercise 2 --> Next
     6. Exercise 3
     7. Exercise 4
 17. Intermediate: Libraries and APIs
