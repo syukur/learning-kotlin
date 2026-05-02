@@ -126,8 +126,8 @@
     2. Null values and collections
     3. Early return and the Elvis operator 
     4. Exercise 1
-    5. Exercise 2 --> Next
+    5. Exercise 2
     6. Exercise 3
     7. Exercise 4
-17. Intermediate: Libraries and APIs
+17. Intermediate: Libraries and APIs --> Next
 
