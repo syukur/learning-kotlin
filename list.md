@@ -119,8 +119,15 @@
     5. Standard Delegates: Observable Properties
     6. Exercise 1
     7. Exercise 2
-    8. Exercise 3   --> Next 
+    8. Exercise 3 
     9. Exercise 4
 16. Intermediate: Null safety
+    1. Smart casts and safe casts
+    2. Null values and collections
+    3. Early return and the Elvis operator --> Next
+    4. Exercise 1
+    5. Exercise 2
+    6. Exercise 3
+    7. Exercise 4
 17. Intermediate: Libraries and APIs
 

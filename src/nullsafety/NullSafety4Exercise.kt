@@ -5,7 +5,7 @@ data class Employee(
     val salary: Int
 )
 
-fun getEmployeeById(id : Int) = when (id) {
+fun getEmployeeById(id : Int)= when (id) {
     1 -> Employee("Marry",20)
     2 -> null
     3 -> Employee("John",22)

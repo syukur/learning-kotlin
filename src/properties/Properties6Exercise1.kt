@@ -11,15 +11,9 @@ fun findOutOfStockBooks(inventory: List<Int>): List<Int> {
 
 }
 
-// real life harusnya gini, lebih pendek
-fun findOutOfStockBooks1(inventory: List<Int>): List<Int> {
-    return inventory.filter { it < 1 }
-}
+
 
 fun main() {
     val inventory = listOf(3, 0, 7, 0, 5)
     println(findOutOfStockBooks(inventory))
-
-    val inventory2 = listOf(3, 0, 7, 0, 5)
-    println(findOutOfStockBooks(inventory2))
 }
