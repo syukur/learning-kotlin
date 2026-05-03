@@ -129,5 +129,11 @@
     5. Exercise 2
     6. Exercise 3
     7. Exercise 4
-17. Intermediate: Libraries and APIs --> Next
+17. Intermediate: Libraries and APIs
+    1. The standard library --> DONE
+    2. Kotlin library
+    3. Opt in to APIs
+    4. Exercise 1
+    5. Exercise 2
+    6. Exercise 3
 
