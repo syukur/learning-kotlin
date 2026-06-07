@@ -1,4 +1,4 @@
-package android.developer.courses.function
+package android.developer.courses.function.unit2
 
 fun main() {
     //val  trickFunction = ::trick
@@ -35,7 +35,17 @@ fun main() {
     val treatFunction = trickOrTreat(false){"$it quarters"}
     val trickFunction = trickOrTreat(true, null)
 
-    treatFunction()
+    /**
+     * sebuah function yang memiliki argument function lain,
+     * atau mengembalikan nilai (return value) functiin lain,
+     * di sebut sebagai higher-order function
+     * kita bisa membuat higher-order functin sendiri
+     * selain itu kotlin juga mengediakan higher-order functin bawaan
+     * contoh nya fungsi repeat(timesL Int, action(Int) -> Unit)
+     */
+    repeat(4){
+        treatFunction()
+    }
     trickFunction()
 
 }
