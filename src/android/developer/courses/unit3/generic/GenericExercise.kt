@@ -20,28 +20,36 @@ class NumericQuestion(
 )
 */
 
-class Question<T>(
+data class Question<T>(
     val questionText: String,
     val answer: T,
-    val difficulty: String
+    val difficulty: Difficulty
 )
+
+enum class Difficulty {
+    EASY, MEDIUM, HARD
+}
+
+object StudentProgress
 
 fun main() {
     val question1 = Question<String>(
         questionText = "Berakit-rakit ke ___ , berenang-renang ke tepian",
         answer = "hulu",
-        difficulty = "easy"
+        difficulty = Difficulty.EASY
     )
 
     val question2 = Question<Boolean>(
         questionText = "Ikan bernafas dengan paru-paru",
         answer = false,
-        difficulty = "medium",
+        difficulty = Difficulty.MEDIUM
     )
 
     val question3 = Question<Int>(
         questionText = "1 + 1 = ?",
         answer = 2,
-        difficulty = "hard",
+        difficulty = Difficulty.HARD
     )
+
+    println(question1)
 }
