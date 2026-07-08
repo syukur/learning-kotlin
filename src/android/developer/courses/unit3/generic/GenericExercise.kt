@@ -71,6 +71,30 @@ class Quiz() : ProgressPrintable{
         var total = 10
         var answered = 3
     }
+
+    fun printQuiz(){
+        question1.let {
+            println(it.questionText)
+            println(it.answer)
+            println(it.difficulty)
+        }
+
+        println()
+
+        question2.let {
+            println(it.questionText)
+            println(it.answer)
+            println(it.difficulty)
+        }
+
+        println()
+
+        question3.let {
+            println(it.questionText)
+            println(it.answer)
+            println(it.difficulty)
+        }
+    }
 }
 
 //
@@ -85,5 +109,6 @@ class Quiz() : ProgressPrintable{
 
 fun main() {
    // println("${Quiz.answered} of ${Quiz.total} answered.")
-    Quiz().printProgressBar()
+    //Quiz().printProgressBar()
+    Quiz().printQuiz()
 }
