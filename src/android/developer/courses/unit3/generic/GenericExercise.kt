@@ -110,5 +110,8 @@ class Quiz() : ProgressPrintable{
 fun main() {
    // println("${Quiz.answered} of ${Quiz.total} answered.")
     //Quiz().printProgressBar()
-    Quiz().printQuiz()
+    //Quiz().printQuiz()
+    Quiz().apply {
+        printQuiz()
+    }
 }
